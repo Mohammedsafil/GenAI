@@ -1,1 +1,0 @@
-My_key = "AIzaSyB9qL_h7I8fWNiOl91fuLewKuPS3FTXmQA"
